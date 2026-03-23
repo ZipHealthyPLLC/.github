@@ -4,6 +4,8 @@
 
 ---
 
+![Our GitHub Game](../game.gif)
+
 We are a multidisciplinary practice based in **Northwest Arkansas** providing evidence-based behavioral health services, business consulting, and professional coaching.
 
 ### What We Do
